@@ -1,0 +1,6 @@
+
+Current bugs to fix:
+
+1. With coins lower then 0.001$ the hover value on chart shows as 0
+2. With shiba coin, the commas are incorrect (1 decimal place too early)
+3. When searching for a coin, must be on page 1 otherwise the coins not on the current page won't show
